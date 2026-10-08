@@ -8,7 +8,7 @@
             <sparkle:version>1.0.0</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/MatthewBurgess10/FileManager/releases/download/prod/FileManager.1.0.0.dmg" length="1298743" type="application/octet-stream" sparkle:edSignature="D0zTUpbcKaV63ExX2XE9jQE+of+FeL4xTpPDDYFX/2S7ySO7jTugJcpY5YqmsoGwfEQAXQGppdCKmin7AZ96Bw=="/>
+            <enclosure url="https://github.com/MatthewBurgess10/FileFlow_Releases/releases/download/V1.0.0/FileManager.1.0.0.dmg" length="1298743" type="application/octet-stream" sparkle:edSignature="D0zTUpbcKaV63ExX2XE9jQE+of+FeL4xTpPDDYFX/2S7ySO7jTugJcpY5YqmsoGwfEQAXQGppdCKmin7AZ96Bw=="/>
         </item>
     </channel>
 </rss>
