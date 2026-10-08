@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>FileManagerV1</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Fri, 02 Oct 2026 10:15:09 +0100</pubDate>
+            <sparkle:version>1.0.0</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/MatthewBurgess10/FileManager/releases/download/prod/FileManager.1.0.0.dmg" length="1298743" type="application/octet-stream" sparkle:edSignature="D0zTUpbcKaV63ExX2XE9jQE+of+FeL4xTpPDDYFX/2S7ySO7jTugJcpY5YqmsoGwfEQAXQGppdCKmin7AZ96Bw=="/>
+        </item>
+    </channel>
+</rss>
